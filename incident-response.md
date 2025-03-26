@@ -18,13 +18,13 @@
      - No Immediate Actions needed.
 ## Investigation:
 1. Forensic Analysis:
-   - conduct thorough log analysis
-   - Identify:
-      - the time when email is received.
-      - the time when the link clicked.
-      - Systems accessed.
-      - any malware is downloaded or installed.
-      - Potential Data Exposure.
+   - conduct thorough log analysis.
+   - Identify the time when email is received.
+   - Identify the time when the link clicked.
+   - Identify Systems accessed.
+   - Identify any malware is downloaded or installed.
+   - Identify Potential Data Exposure.
+   - Idnetify whether the compromised credentials are used elsewhere.
    - Store all the digital evidence if any future investigations.
 2. Email Tracing:
    -  Analyze the Email Headers.
