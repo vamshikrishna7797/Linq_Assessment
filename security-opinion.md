@@ -2,6 +2,6 @@ In Security the term "best practices" is often overused and actually none of the
 
 In Some cases best pratices create unnecessary hurdles for users and sometimes they aren't best because they trade off security for convenience and cost-effectivness for example overly complicated firewall rules and access controls can lead the users to find a workaround which creates more vulnerabilities. The more complex it gets the more probable for human error.
 
-In my opinion, best practices should be clear, understandable, adaptable, regularly reviewed and implemented on specific risk assessments. We should focus on educating the Employee's over restricting them.
+In my opinion, best practices should be clear, understandable, adaptable, regularly reviewed and implemented on specific risk assessments. We should also focus on educating the employee's over restricting them.
 
 Security should enable bussiness, not paralyze it. Simplicity, clarity, and user empowerment are more efficient than confusing security architectures.
