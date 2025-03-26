@@ -1,2 +1,3 @@
 In Security its often overused the term best practices and actually none of them all are universally applicable or atleast not most effective in every possible scenario. 
 Security best practices are presented as best solution for every problem but In reality what works in one environment might not be the best suitable for another.For example MFA is best practice at certain places but it can be an overkill in low risk enivronments.
+Sometimes best practices can be outdated due to changes in the attack methods  For example In 2010's complex passwords might be enough but now without MFA, password manager or behaviour based authenticaion it will be less effective.
