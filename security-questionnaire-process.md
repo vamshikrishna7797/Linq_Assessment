@@ -4,7 +4,6 @@
 - Sales Team
 - Security Team
 - Compliance Team
-- IT Operations
 
 # Process
 
@@ -17,8 +16,10 @@
 - pre-fill the responses for most common questions.
 
 ### 3. Review
-- Security team is responsible for providing the technical solution.
-- Compliance team is responsible for providing legal/regulatory reviews
+- Security team is responsible for providing the technical solution
+  - Security Lead assigns a team member to that particular questionnaire.
+  - Team member can contact the compliance team and sales team for any assistance.
+- Compliance team is responsible for providing legal/regulatory reviews.
 - Sales team is responsible for providing customer-specific context.
 
 ### 4. Verification
@@ -28,7 +29,7 @@
 
 ### 5. Tracking
 - Centralized tracking in CRM.
-- Follow-up and version control
+- Follow-up and version control.
 - Store finished questionnaires for future reference.
 
 ## Tools
