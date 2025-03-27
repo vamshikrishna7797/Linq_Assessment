@@ -1,6 +1,6 @@
 # Security Questionnaire Handling Process
 
-# Stakeholders
+## Stakeholders
 - Sales Team
 - Security Team
 - Compliance Team
