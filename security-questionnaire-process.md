@@ -18,6 +18,7 @@
 ### 3. Review
 - Security team is responsible for providing the technical solution
   - Security Lead assigns a team member to that particular questionnaire.
+  - Team member is responsible for that particular questionnnaire.
   - Team member can contact the compliance team and sales team for any assistance.
 - Compliance team is responsible for providing legal/regulatory reviews.
 - Sales team is responsible for providing customer-specific context.
