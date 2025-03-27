@@ -30,7 +30,7 @@
    -  Analyze the Email Headers.
    -  Block sender domain.
    -  Update email filtering rules.
-## Improvements:
+## Improvements from Findings:
 1. Security Awareness Training:
    - Develop Mandatory Monthly or Quaterly Phising simulation training.
    - Create interactive scenario based learnings
